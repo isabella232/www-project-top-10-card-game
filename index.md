@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP top 10 card game
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
