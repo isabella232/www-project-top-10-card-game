@@ -11,7 +11,7 @@ auto-migrated: 1
 <div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
 ![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg
-"/assets/images/OWASP_Project_Header.jpg")
+<img src="/assets/images/OWASP_Project_Header.jpg")
 
 </div>
 
