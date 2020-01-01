@@ -527,6 +527,7 @@ modified to enhance the game’s learning experience. These decks and the
 related play grid contain OWASP copyrighted images and related
 descriptions and all rights are reserved by OWASP. **Open**
 
+
 ## Getting Involved
 
 | Task                                         | Volunteer                             | Responsibilities                                                                                                                                                                                      | Status                                            |
