@@ -84,8 +84,7 @@ that reflects a sense realism and excitement.
     risks. Each OWASP Top 10 Proactive Control technique maps to one or
     more items in the OWASP Top 10.
 
-The four main components of the game (See GitHub -
-<https://github.com/OWASP/Top-10-Card-Game/>) include:
+The four main components of the game include:
 
   - Threat Agent (TA) deck
   - Defense Control (DC) deck
@@ -109,16 +108,17 @@ This also brings the DC deck to a total of 54 cards.
 
 ## Game Play Grid
 
-The game’s detailed play grid (See GitHub -
-<https://github.com/OWASP/Top-10-Card-Game/>) is based in part on the
+The game’s detailed play grid is based in part on the
 attack path flow diagram provided with OWASP’s Top 10 publication. The
 play grid is designed to help students visualize how threat agents can
 potentially use many different paths through your application to do harm
 to your business or organization. The standard two player (four deck)
-version of the play grid can be summarized as follows:
+version of the play grid can be summarized as follows:</p>
+<figure>
+<img src="/assets/images/OWASP_Card_Game_Grid_Summary.jpg" title="View from 3,000 Meters" alt="View from 3,000 Meters" /><figcaption>View from 3,000 Meters</figcaption>
+</figure>
 
-![View from 3,000 meters](OWASP_Card_Game_Grid_Summary.jpg
-"View from 3,000 meters")
+
 
 The detailed version of the play grid contains instructional content and
 provides visual continuity for players:
