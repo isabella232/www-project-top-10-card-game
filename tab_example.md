@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Card Attack / Defense Matrix
 layout:  null
 tab: true
 order: 1
