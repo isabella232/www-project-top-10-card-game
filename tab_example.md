@@ -6,6 +6,8 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Card Attack / Defense Matrix
 
 Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+
+
