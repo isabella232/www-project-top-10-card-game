@@ -3,7 +3,7 @@ title: Card Attack / Defense Matrix
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: Card Attack / Defense Matrix
 ---
 
 ## Card Attack / Defense Matrix
