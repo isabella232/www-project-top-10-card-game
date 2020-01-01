@@ -126,6 +126,7 @@ provides visual continuity for players:</p>
 <img src="/assets/images/Game_Grid_Draft.jpg" title="OWASP Card Game Grid" alt="OWASP Card Game Grid" /><figcaption>OWASP Card Game Grid</figcaption>
 </figure>
 
+
 ## Cards
 
 During game design, four standard poker size playing card decks were
