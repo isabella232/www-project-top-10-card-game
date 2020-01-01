@@ -112,7 +112,7 @@ The game’s detailed play grid is based in part on the
 attack path flow diagram provided with OWASP’s Top 10 publication. The
 play grid is designed to help students visualize how threat agents can
 potentially use many different paths through your application to do harm
-to your business or organization. The standard two player (four deck)
+to your business or organization. With a view from 3,000 meters high, the standard two player (four deck)
 version of the play grid can be summarized as follows:</p>
 <figure>
 <img src="/assets/images/OWASP_Card_Game_Grid_Summary.jpg" title="View from 3,000 Meters" alt="View from 3,000 Meters" /><figcaption>View from 3,000 Meters</figcaption>
