@@ -35,11 +35,11 @@ auto-migrated: 1
 <h2 id="available_presentations">Available Presentations</h2>
 <p>[Insert link here]</p>
 <p>[Insert link here]</p>
+ 
 <h2 id="project_leaders">Project Leaders</h2>
-<h2 id="project_leaders">Project Leaders</h2>
+ 
 <p><a href="mailto://dennis.johnson@owasp.org">Dennis Johnson</a></p>
-<p><a href="mailto://dennis.johnson@owasp.org">Dennis Johnson</a></p>
-<h2 id="project_volunteers">Project Volunteers</h2>
+ 
 <h2 id="project_volunteers">Project Volunteers</h2>
 <p>[Insert names here]</p>
 <p>[Insert names here]</p>
