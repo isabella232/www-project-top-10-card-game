@@ -34,7 +34,7 @@ auto-migrated: 1
  
 <h2 id="available_presentations">Available Presentations</h2>
 <p>[Insert link here]</p>
-<p>[Insert link here]</p>
+ 
  
 <h2 id="project_leaders">Project Leaders</h2>
  
@@ -42,15 +42,16 @@ auto-migrated: 1
  
 <h2 id="project_volunteers">Project Volunteers</h2>
 <p>[Insert names here]</p>
-<p>[Insert names here]</p>
+ 
 <h2 id="related_projects">Related Projects</h2>
-<h2 id="related_projects">Related Projects</h2>
+ 
 <p>[Insert information here]</p>
-<p>[Insert information here]</p>
+ 
 <h2 id="project_resources">Project Resources</h2>
 <h2 id="project_resources">Project Resources</h2>
  
 <p>The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.</p>
+
 <h2 id="what_is_the_current_status_of_the_project">What is the Current Status of the Project?</h2>
 <p>The OWASP Top 10 Card Game is currently in the incubator category. Ideas are being fleshed out and proven. Development is still underway.</p>
 <h2 id="available_downloads">Available Downloads</h2>
