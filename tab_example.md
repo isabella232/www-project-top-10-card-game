@@ -41,4 +41,9 @@ A10|10|Logging & Monitoring - TAs rely on ineffective application runtime securi
 ||||||The C10 card can only be played during the Assess Web Platform Technical Weaknesses Attack and the PWN Attack.
 |||||Joker|DC White Hat Joker - The DC White Hat Joker card can be played any time while under attack to prevent a phishing attack or a pivot move in the assigned vector path. Once in play, the DC White Hat Joker card cannot be moved from the assigned position.
 
+|Special Attack and Defense Rules|
+|----------------------------------------------------------------------------------------------------------|
+|Observation Attack - If the TA site is not masked, the color of TA’s attacking card (A1 through A9) must match the color (red or black) of the TA’s attack site card. For example, an attacking unmasked TA Queen of Hearts (Red) may only use a Red (Diamond or Heart) attack (A1 through A9) card.|
+|Assess Web Platform Technical Weaknesses Attack - If the TA site is not masked, the suit of the TA’s attacking card (A1 through A9) must match the suit (hearts, diamonds, spades, or clubs) of the defending DC site card.|
+|PWN Attack - If the TA site is not masked, the attacking TA site (Queen or King) must match the face card (Queen or King) of the defending DC site card. An unmasked Jack may still attack any other face card. For example, an attacking unmasked TA Queen of Hearts may only launch a PWN attack against a DC Queen (Hearts, Diamond, Club or Spades).|
 
