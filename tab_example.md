@@ -10,5 +10,5 @@ tags: Card Attack / Defense Matrix
 
 
 | Attacks| TA Playing Card| Threat Agent (TA) Point of View| Proactive DC| DC Playing Card| Defense Control (DC) Concepts|
-|------------|------------|------------------------|------------|------------|------------|
+|------------|------------|------------------------|------------|------------|------------------------|
 
