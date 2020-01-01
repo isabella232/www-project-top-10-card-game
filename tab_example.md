@@ -35,10 +35,10 @@ A10|10|Logging & Monitoring - TAs rely on ineffective application runtime securi
 |||White Hat|C10|10|Error and Exception Handling - With this card, controls are in place to ensure that the application’s error and exception handling process does not leak system information and that it is guarded from malicious system overload.
 ||||||
 ||||||The C10 card may be any color.
-|||||
-|||||The C10 Error Handling DC card cancels TA attacks (1 through 9) unless the DC’s face card attack vector path (1, 2 or 3) is poisoned by the A10 malware card.
+||||||
+||||||The C10 Error Handling DC card cancels TA attacks (1 through 9) unless the DC’s face card attack vector path (1, 2 or 3) is poisoned by the A10 malware card.
 ||||||
 ||||||The C10 card can only be played during the Assess Web Platform Technical Weaknesses Attack and the PWN Attack.
-||||||Joker|DC White Hat Joker - The DC White Hat Joker card can be played any time while under attack to prevent a phishing attack or a pivot move in the assigned vector path. Once in play, the DC White Hat Joker card cannot be moved from the assigned position.
+|||||Joker|DC White Hat Joker - The DC White Hat Joker card can be played any time while under attack to prevent a phishing attack or a pivot move in the assigned vector path. Once in play, the DC White Hat Joker card cannot be moved from the assigned position.
 
 
