@@ -173,10 +173,11 @@ attack options and may be more difficult to defense and face down DC
 site cards may limit some TA attacks or trigger additional TA workload
 counts. The following design, of an OWASP branded card set, was drafted
 during the initial proof of concept phase to provide how the cards might
-look.
+look.</p>
 
-![Sample of Card Fronts](OWASP_Game_Card_Sample_Draft_2.jpg
-"Sample of Card Fronts")
+<figure>
+<img src="/assets/images/OWASP_Game_Card_Sample_Draft_2.jpg" title="Sample of Card Fronts" alt="Sample of Card Fronts" /><figcaption>Sample of Card Fronts</figcaption>
+</figure>
 
 ## Setup
 
