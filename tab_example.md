@@ -23,22 +23,22 @@ A8|8|Insecure Deserialization – TAs exploit weaknesses in applications and API
 A9|9|Known Vulnerabilities - TAs identify weak components through scanning or manual analysis and customize attack exploits. Prevalence of this issue in the business community is widespread. Component-heavy development patterns has resulted in development teams not understanding which components they use in their application or API, much less keeping them up to date. DC teams may be limited in their efforts to scan, identify and remove unnecessary functions and monitor libraries.|C2|2|Leverage Security Frameworks and Libraries - Only trusted frameworks and libraries with solid security features are employed.|
 Black Hat|Joker|Phishing attack – Phishing controls include day-to-day procedures and education and are rarely designed with the holistic view necessary to mount an effective defense. There are few DC precautions that application writers can follow to reduce this risk. DC and business management have historically been lax in addressing phishing controls.|None||User Education - Effective DC actions to blunt a phishing attack are limited.|
 A10|10|Logging & Monitoring - TAs rely on ineffective application runtime security logging, inconsistent operational data reviews, and the poor overall management of monitoring activities, coupled with weak responses by the DC team, to achieve their goals without being detected. This card represents additional malware that supports the attack card (A1 through A9). It is used during the attack phase. It is not a stand-alone attack card. The A10 card may be added to support the TA’s attack card during the current or subsequent attack rounds. The A10 card may only be played during an Assess Web Platform Technical Weaknesses Attack or PWN Attack. The TA’s A10 card may be any color.|
-|||C9|9|Logging and Monitoring - This card represents the effective logging and monitoring of the web platform’s operational data and application’s processing activities.
-|||||
-|||||The C9 Logging and Monitoring DC card cancels TA attacks (1 through 9) unless the attack vector path (1, 2 or 3) is poisoned by the A10 malware card.
-|||||
-|||||The C9 card may be any color.
-|||||
-|||||The C9 defense is not effective if the TA attacking site is masked.
-|||||
-|||||The C9 card can only be played during the Assess Web Platform Technical Weaknesses Attack and the PWN Attack.
-||White Hat|C10|10|Error and Exception Handling - With this card, controls are in place to ensure that the application’s error and exception handling process does not leak system information and that it is guarded from malicious system overload.
-|||||
-|||||The C10 card may be any color.
+||||C9|9|Logging and Monitoring - This card represents the effective logging and monitoring of the web platform’s operational data and application’s processing activities.
+||||||
+||||||The C9 Logging and Monitoring DC card cancels TA attacks (1 through 9) unless the attack vector path (1, 2 or 3) is poisoned by the A10 malware card.
+||||||
+||||||The C9 card may be any color.
+||||||
+||||||The C9 defense is not effective if the TA attacking site is masked.
+||||||
+||||||The C9 card can only be played during the Assess Web Platform Technical Weaknesses Attack and the PWN Attack.
+|||White Hat|C10|10|Error and Exception Handling - With this card, controls are in place to ensure that the application’s error and exception handling process does not leak system information and that it is guarded from malicious system overload.
+||||||
+||||||The C10 card may be any color.
 |||||
 |||||The C10 Error Handling DC card cancels TA attacks (1 through 9) unless the DC’s face card attack vector path (1, 2 or 3) is poisoned by the A10 malware card.
-|||||
-|||||The C10 card can only be played during the Assess Web Platform Technical Weaknesses Attack and the PWN Attack.
-||||Joker|DC White Hat Joker - The DC White Hat Joker card can be played any time while under attack to prevent a phishing attack or a pivot move in the assigned vector path. Once in play, the DC White Hat Joker card cannot be moved from the assigned position.
+||||||
+||||||The C10 card can only be played during the Assess Web Platform Technical Weaknesses Attack and the PWN Attack.
+||||||Joker|DC White Hat Joker - The DC White Hat Joker card can be played any time while under attack to prevent a phishing attack or a pivot move in the assigned vector path. Once in play, the DC White Hat Joker card cannot be moved from the assigned position.
 
 
