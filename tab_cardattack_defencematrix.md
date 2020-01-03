@@ -1,9 +1,10 @@
 ---
-title: Card Attack / Defense Matrix
+title: CardAttack_DefenceMatrix
+displaytext: Card Attack / Defense Matrix
 layout:  null
 tab: true
 order: 1
-tags: Card Attack / Defense Matrix
+tags: top 10 card game, Card Attack / Defense Matrix
 ---
 
 ## Card Attack / Defense Matrix
