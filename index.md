@@ -45,6 +45,12 @@ auto-migrated: 1
  
 <h2 id="related_projects">Related Projects</h2>
  
+ ## Related OWASP Projects and Resources
+
+* [OWASP Top Ten Proactive Controls (2018)](https://www.owasp.org/index.php/OWASP_Proactive_Controls)
+* [OWASP Top Ten Risks (2017)](http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+* [OWASP Cheatsheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+
 <p>[Insert information here]</p>
  
 <h2 id="project_resources">Project Resources</h2>
