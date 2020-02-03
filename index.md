@@ -43,9 +43,7 @@ auto-migrated: 1
 <h2 id="project_volunteers">Project Volunteers</h2>
 <p>[Insert names here]</p>
  
-<h2 id="related_projects">Related Projects</h2>
- 
- ## Related OWASP Projects and Resources
+ ## Related OWASP Projects
 
 * [OWASP Top Ten Proactive Controls (2018)](https://www.owasp.org/index.php/OWASP_Proactive_Controls)
 * [OWASP Top Ten Risks (2017)](http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
