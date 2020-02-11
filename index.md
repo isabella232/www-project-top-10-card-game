@@ -54,7 +54,9 @@ Cybersecurity activities and training are frequently designed around the concept
 
 <p>[Insert names here]</p>
  
- <h2 id="project_resources">Project Resources</h2>
+<h2 id="project_resources">Project Resources</h2>
+
+<p>[Insert links here]</p>
   
 <h2 id="available_downloads">Available Downloads</h2>
 
@@ -78,8 +80,6 @@ Cybersecurity activities and training are frequently designed around the concept
 The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
 
   - The OWASP Top 10 focuses on identifying the most serious web application security risks for a broad array of organizations. A primary aim of the OWASP Top 10 is to educate developers, designers, architects, managers, and organizations about the consequences of the most common and most important web application security weaknesses.
-
-<!-- end list -->
 
   - The OWASP Top 10 Proactive Controls is similar to the OWASP Top 10 but is focused on defensive techniques and controls as opposed to risks. Each OWASP Top 10 Proactive Control technique maps to one or more items in the OWASP Top 10.
 
