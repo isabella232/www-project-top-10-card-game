@@ -43,12 +43,7 @@ auto-migrated: 0
 <h2 id="project_volunteers">Project Volunteers</h2>
 <p>[Insert names here]</p>
  
- ## Related OWASP Projects
-
-* [OWASP Top Ten Proactive Controls (2018)](https://www.owasp.org/index.php/OWASP_Proactive_Controls)
-* [OWASP Top Ten Risks (2017)](http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
- 
-<h2 id="project_resources">Project Resources</h2>
+ <h2 id="project_resources">Project Resources</h2>
   
 <p>The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.</p>
 
@@ -64,6 +59,11 @@ auto-migrated: 0
 </tbody>
 </table>
 
+## Related OWASP Projects
+
+* [OWASP Top Ten Proactive Controls (2018)](https://www.owasp.org/index.php/OWASP_Proactive_Controls)
+* [OWASP Top Ten Risks (2017)](http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+ 
 ## Game Overview
 
 The game is designed to be an easy to learn introduction to the risk
