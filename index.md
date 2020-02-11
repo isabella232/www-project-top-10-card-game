@@ -14,6 +14,21 @@ Using a standard poker card deck, design a card game that combines the concepts 
 
 During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. Many options are open for the design of an OWASP branded TA card deck. For example,
 
+<figure>
+ 
+<img src="/assets/images/TA_Deck_Sample_Card.jpg" title="Threat Agent (TA) Card Deck" alt="Threat Agent (TA) Card Deck" /><figcaption>Threat Agent (TA) Card Deck</figcaption>
+
+</figure>
+
+<p>During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck. Many options are open for the design of an OWASP branded DC card deck. For example,</p>
+
+<figure>
+ 
+<img src="/assets/images/DC_Deck_Sample_Card.jpg" title="Defense Control (DC) Card Deck" alt="Defense Control (DC) Card Deck" /><figcaption>Defense Control (DC) Card Deck</figcaption>
+
+</figure>
+
+<p>Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.</p>
 <table>
  
 <tbody>
