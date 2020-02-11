@@ -14,6 +14,8 @@ The game is designed to be an easy to learn introduction to the risk concepts of
 
 During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. Many options are open for the design of an OWASP branded TA card deck. For example,
 
+<img src="assets/images/TA_Deck_Sample_Card.jpg" style="float: left; width: 30%; margin-right: 15px; margin-bottom: 15px;">
+
 <figure>
  
 <img src="/assets/images/TA_Deck_Sample_Card.jpg" title="Threat Agent (TA) Card Deck"> <figcaption>Threat Agent (TA) Card Deck</figcaption>
