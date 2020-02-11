@@ -35,8 +35,6 @@ type: documentation
 </figure>
 
 <p>Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.</p>
-
-</td>
  
 <td>
  
@@ -64,7 +62,7 @@ type: documentation
 
 <h2 id="what_is_the_current_status_of_the_project">What is the Current Status of the Project?</h2>
 
-<p>The OWASP Top 10 Card Game is currently in the incubator category. Ideas are being fleshed out and proven. Development is still underway.</p>
+<p>The OWASP Top 10 Card Game is currently in the Incubator category. Ideas are being fleshed out and proven. Development is still underway.</p>
 
 <h2 id="available_downloads">Available Downloads</h2>
 
