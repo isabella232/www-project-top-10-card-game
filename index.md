@@ -20,9 +20,9 @@ During the initial game design, red was selected as the primary color for the ma
 
 During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck. Many options are open for the design of an OWASP branded DC card deck. For example,
 
- <img src="assets/images/DC_Deck_Sample_Card.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
+<img src="assets/images/DC_Deck_Sample_Card.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
  
- <strong>Defense Control (DC) Card Deck</strong>
+<strong>Defense Control (DC) Card Deck</strong>
  
 Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.
 
@@ -94,13 +94,13 @@ The game’s detailed play grid is based in part on the attack path flow diagram
 play grid is designed to help students visualize how threat agents can potentially use many different paths through your application to do harm to your business or organization. With a view from 3,000 meters high, the standard two player (four deck)
 version of the play grid can be summarized as follows:</p>
 
-<img src="assets/images/OWASP_Card_Game_Grid_Summary.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
+ <img src="assets/images/OWASP_Card_Game_Grid_Summary.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong> View from 3,000 Meters</strong>
 
 The detailed version of the play grid contains instructional content and provides visual continuity for players:</p>
 
-<img src="assets/images/Game_Grid_Draft.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
+ <img src="assets/images/Game_Grid_Draft.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong>OWASP Card Game Grid</strong> 
 
@@ -124,9 +124,7 @@ Strength and weaknesses may vary among face cards (Jack, Queen, and King), suits
 
 The Masked / Unmasked status (face down / face up) of the attacking and defending sites will affect the strength and weaknesses of the opposing sites (face cards). Face down TA site cards may have more flexible attack options and may be more difficult to defense and face down DC site cards may limit some TA attacks or trigger additional TA workload counts. The following design, of an OWASP branded card set, was drafted during the initial proof of concept phase to provide how the cards might look.</p>
 
-<img src="assets/images/OWASP_Game_Card_Sample_Draft_2" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
-
-<img src="assets/images/OWASP_Game_Card_Sample_Draft_2">
+<img src="assets/images/OWASP_Game_Card_Sample_Draft_2.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong>Sample of Card Fronts</strong>.
  
