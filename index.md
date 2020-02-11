@@ -24,7 +24,7 @@ During the initial game design, blue was selected as the primary color for the b
 
 <figure>
  
-<img src="/assets/images/DC_Deck_Sample_Card.jpg" title="Defense Control (DC) Card Deck" alt="Defense Control (DC) Card Deck" /><figcaption>Defense Control (DC) Card Deck</figcaption>
+<img src="/assets/images/DC_Deck_Sample_Card.jpg" title="Defense Control (DC) Card Deck"> <figcaption>Defense Control (DC) Card Deck</figcaption>
 
 </figure>
 
