@@ -42,22 +42,6 @@ Cybersecurity activities and training are frequently designed around the concept
 
 4. The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.
 
-<table>
- 
-<tbody>
- 
-<tr class="odd">
- 
-
-
-<td>
- 
-</td>
- 
-<h2 id="what_is_the_owasp_top_10_card_game">What is the OWASP Top 10 Card Game?</h2>
-
-<p>2The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.</p>
- 
 <h2 id="available_presentations">Available Presentations</h2>
 
 <p>[Insert link here]</p>
@@ -89,10 +73,6 @@ Cybersecurity activities and training are frequently designed around the concept
 <h2 id="project_sponsors">Project Sponsors</h2>
 
 <p>[Insert logos here]</p></td>
-
-</tr>
-</tbody>
-</table>
 
 ## Related OWASP Projects
 
