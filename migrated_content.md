@@ -3,10 +3,10 @@
 layout: col-sidebar
 title: OWASP Top 10 Card Game
 tags: example-tag
-level: 0
+level: 2
 type: documentation
 
-auto-migrated: 1
+auto-migrated: 0
 ---
 <div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
