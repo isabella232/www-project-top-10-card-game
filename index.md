@@ -12,6 +12,8 @@ The OWASP Top Ten card game is a fun to play poker deck card game that pits the 
 
 Using a standard poker card deck, design a card game that combines the concepts of the <strong>OWASP Top 10</strong> and the <strong>OWASP Top 10 Proactive Controls</strong>, for novice level learners, that can be easily converted for use with customized OWASP branded playing cards.
 
+The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
+
 During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. Many options are open for the design of an OWASP branded TA card deck. For example,
 
 <figure>
@@ -32,11 +34,11 @@ Cybersecurity activities and training are frequently designed around the concept
 
 ## What is the OWASP Top 10 Card Game?
 
-The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
+1. The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
 
-The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.
+2. The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.
 
-The OWASP Top 10 Card Game is currently in the Incubator category. Ideas are being fleshed out and proven. Development is still underway.
+3. The OWASP Top 10 Card Game is currently in the Incubator category. Ideas are being fleshed out and proven. Development is still underway.
 
 
 <table>
