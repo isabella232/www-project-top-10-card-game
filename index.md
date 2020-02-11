@@ -30,6 +30,15 @@ During the initial game design, blue was selected as the primary color for the b
 
 Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.
 
+What is the OWASP Top 10 Card Game?
+
+The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
+
+The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.
+
+The OWASP Top 10 Card Game is currently in the Incubator category. Ideas are being fleshed out and proven. Development is still underway.
+
+
 <table>
  
 <tbody>
@@ -44,8 +53,6 @@ Cybersecurity activities and training are frequently designed around the concept
  
 <h2 id="what_is_the_owasp_top_10_card_game">What is the OWASP Top 10 Card Game?</h2>
 
-<p>The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.</p>
- 
 <p>The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.</p>
  
 <h2 id="available_presentations">Available Presentations</h2>
