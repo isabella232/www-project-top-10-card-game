@@ -1,6 +1,6 @@
 ---
 
-title: CardAttack_DefenseMatrix
+title: cardattack_defensematrix
 displaytext: Card Attack / Defense Matrix
 layout:  null
 tab: true
