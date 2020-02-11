@@ -10,6 +10,8 @@ type: documentation
 
 The OWASP Top Ten card game is a fun to play poker deck card game that pits the black hats against the white hats to see who can be the first to hack their opponent’s website.
 
+## Mission Statement
+
 Using a standard poker card deck, design a card game that combines the concepts of the <strong>OWASP Top 10</strong> and the <strong>OWASP Top 10 Proactive Controls</strong>, for novice level learners, that can be easily converted for use with customized OWASP branded playing cards.
 
 <table>
@@ -18,11 +20,6 @@ Using a standard poker card deck, design a card game that combines the concepts 
  
 <tr class="odd">
  
-<p>The OWASP Top Ten card game is a fun to play poker deck card game that pits the black hats against the white hats to see who can be the first to hack their opponent’s website.</p>
-
-<h2 id="mission_statement">Mission Statement</h2>
-
-<p>Using a standard poker card deck, design a card game that combines the concepts of the <strong>OWASP Top 10</strong> and the <strong>OWASP Top 10 Proactive Controls</strong>, for novice level learners, that can be easily converted for use with customized OWASP branded playing cards.</p>
 
 <p>During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. Many options are open for the design of an OWASP branded TA card deck. For example,</p>
 
