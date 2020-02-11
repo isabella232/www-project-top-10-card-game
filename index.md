@@ -7,22 +7,42 @@ level: 2
 type: documentation
 
 <table>
+ 
 <tbody>
+ 
 <tr class="odd">
+ 
 <p>The OWASP Top Ten card game is a fun to play poker deck card game that pits the black hats against the white hats to see who can be the first to hack their opponent’s website.</p>
+
 <h2 id="mission_statement">Mission Statement</h2>
+
 <p>Using a standard poker card deck, design a card game that combines the concepts of the <strong>OWASP Top 10</strong> and the <strong>OWASP Top 10 Proactive Controls</strong>, for novice level learners, that can be easily converted for use with customized OWASP branded playing cards.</p>
+
 <p>During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. Many options are open for the design of an OWASP branded TA card deck. For example,</p>
+
 <figure>
+ 
 <img src="/assets/images/TA_Deck_Sample_Card.jpg" title="Threat Agent (TA) Card Deck" alt="Threat Agent (TA) Card Deck" /><figcaption>Threat Agent (TA) Card Deck</figcaption>
+
 </figure>
+
 <p>During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck. Many options are open for the design of an OWASP branded DC card deck. For example,</p>
+
 <figure>
+ 
 <img src="/assets/images/DC_Deck_Sample_Card.jpg" title="Defense Control (DC) Card Deck" alt="Defense Control (DC) Card Deck" /><figcaption>Defense Control (DC) Card Deck</figcaption>
+
 </figure>
-<p>Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.</p></td>
-<td><h2 id="what_is_the_owasp_top_10_card_game">What is the OWASP Top 10 Card Game?</h2>
+
+<p>Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.</p>
+
+</td>
+ 
+<td>
+ 
+ <h2 id="what_is_the_owasp_top_10_card_game">What is the OWASP Top 10 Card Game?</h2>
 <p>The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.</p>
+ 
 <p>The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.</p>
  
 <h2 id="available_presentations">Available Presentations</h2>
