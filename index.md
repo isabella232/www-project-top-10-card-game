@@ -16,7 +16,7 @@ During the initial game design, red was selected as the primary color for the ma
 
 <figure>
  
-<img src="/assets/images/TA_Deck_Sample_Card.jpg" title="Threat Agent (TA) Card Deck" alt="Threat Agent (TA) Card Deck" /><figcaption>Threat Agent (TA) Card Deck</figcaption>
+<img src="/assets/images/TA_Deck_Sample_Card.jpg" title="Threat Agent (TA) Card Deck1" alt="Threat Agent (TA) Card Deck2" /><figcaption>Threat Agent (TA) Card Deck3</figcaption>
 
 </figure>
 
@@ -28,7 +28,7 @@ During the initial game design, blue was selected as the primary color for the b
 
 </figure>
 
-Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.>
+Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.
 
 <table>
  
