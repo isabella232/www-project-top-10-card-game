@@ -75,24 +75,13 @@ Cybersecurity activities and training are frequently designed around the concept
  
 ## Game Overview
 
-The game is designed to be an easy to learn introduction to the risk
-concepts of the OWASP Top Ten and the best practices control concepts of
-the OWASP Top Ten Proactive Controls at a novice level in an environment
-that reflects a sense realism and excitement.
+The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
 
-  - The OWASP Top 10 focuses on identifying the most serious web
-    application security risks for a broad array of organizations. A
-    primary aim of the OWASP Top 10 is to educate developers, designers,
-    architects, managers, and organizations about the consequences of
-    the most common and most important web application security
-    weaknesses.
+  - The OWASP Top 10 focuses on identifying the most serious web application security risks for a broad array of organizations. A primary aim of the OWASP Top 10 is to educate developers, designers, architects, managers, and organizations about the consequences of the most common and most important web application security weaknesses.
 
 <!-- end list -->
 
-  - The OWASP Top 10 Proactive Controls is similar to the OWASP Top 10
-    but is focused on defensive techniques and controls as opposed to
-    risks. Each OWASP Top 10 Proactive Control technique maps to one or
-    more items in the OWASP Top 10.
+  - The OWASP Top 10 Proactive Controls is similar to the OWASP Top 10 but is focused on defensive techniques and controls as opposed to risks. Each OWASP Top 10 Proactive Control technique maps to one or more items in the OWASP Top 10.
 
 The four main components of the game include:
 
@@ -101,28 +90,14 @@ The four main components of the game include:
   - Game Play Grid
   - Game Rules and Instructions
 
-The objective of the game is to take control of (PWN) your opponent’s
-three business websites while protecting your business websites. It is
-possible to knockout all three of your opponents TA attack websites.
-Primary requirements for the game are that it be designed around the
-standard set of playing cards so that the general public is familiar
-with the medium facilitating internationalization and that the play grid
-fit easily on the standard sized card table.
+The objective of the game is to take control of (PWN) your opponent’s three business websites while protecting your business websites. It is possible to knockout all three of your opponents TA attack websites. Primary requirements for the game are that it be designed around the standard set of playing cards so that the general public is familiar with the medium facilitating internationalization and that the play grid fit easily on the standard sized card table.
 
-The standard two player configuration includes one TA deck and one DC
-deck for each gamer. The Threat Agent (TA) deck includes two Joker cards
-that are used to represent a Phishing attack. This brings the TA’s deck
-to a total of 54 cards. The Defense Control (DC) deck also includes two
-joker cards that are used to represent White Hat defensive controls.
-This also brings the DC deck to a total of 54 cards.
+The standard two player configuration includes one TA deck and one DC deck for each gamer. The Threat Agent (TA) deck includes two Joker cards that are used to represent a Phishing attack. This brings the TA’s deck to a total of 54 cards. The Defense Control (DC) deck also includes two joker cards that are used to represent White Hat defensive controls. This also brings the DC deck to a total of 54 cards.
 
 ## Game Play Grid
 
-The game’s detailed play grid is based in part on the
-attack path flow diagram provided with OWASP’s Top 10 publication. The
-play grid is designed to help students visualize how threat agents can
-potentially use many different paths through your application to do harm
-to your business or organization. With a view from 3,000 meters high, the standard two player (four deck)
+The game’s detailed play grid is based in part on the attack path flow diagram provided with OWASP’s Top 10 publication. The
+play grid is designed to help students visualize how threat agents can potentially use many different paths through your application to do harm to your business or organization. With a view from 3,000 meters high, the standard two player (four deck)
 version of the play grid can be summarized as follows:</p>
 
 <figure>
@@ -139,51 +114,23 @@ provides visual continuity for players:</p>
 
 ## Cards
 
-During game design, four standard poker size playing card decks were
-used. Each player has one Threat Agent (TA) deck that represents the
-player’s attack team and one Defense Control (DC) deck that represents
-the player’s website defense team. Red TA decks and blue DC decks were
-used during game design.
+During game design, four standard poker size playing card decks were used. Each player has one Threat Agent (TA) deck that represents the player’s attack team and one Defense Control (DC) deck that represents the player’s website defense team. Red TA decks and blue DC decks were used during game design.
 
 Threat Agent (TA) attack deck – 54 cards
 
-  - 12 Face Cards: The face cards (4 Suits X 3 = 12) are held in a
-    separate deck. The players select their unique combination that must
-    include one Jack, one Queen, and one King. The remaining 9 cards are
-    set aside.
-  - 40 TA Attack Cards: There are 40 cards (4 Suits X 10 = 40) that are
-    included in the primary TA attack deck. The 12 face cards are not
-    included in the 40 card TA attack deck.
-  - 2 Joker Cards: There are 2 Joker cards included in the primary TA
-    attack deck.
+  - 12 Face Cards: The face cards (4 Suits X 3 = 12) are held in a separate deck. The players select their unique combination that must include one Jack, one Queen, and one King. The remaining 9 cards are set aside.
+  - 40 TA Attack Cards: There are 40 cards (4 Suits X 10 = 40) that are included in the primary TA attack deck. The 12 face cards are not included in the 40 card TA attack deck.
+  - 2 Joker Cards: There are 2 Joker cards included in the primary TA attack deck.
 
 Defense Control (DC) deck – 54 cards
 
-  - 12 Face Cards: The face cards (4 Suits X 3 = 12) are held in a
-    separate deck. The players select their unique combination that must
-    include one Jack, one Queen, and one King. The remaining 9 cards are
-    set aside.
-  - 40 DC Cards: There are 40 cards (4 Suits X 10 = 40) that are
-    included in the primary DC deck. The 12 face cards are not included
-    in the 40 card DC defense deck.
-  - 2 Joker Cards: There are 2 Joker cards included in the primary DC
-    deck.
+  - 12 Face Cards: The face cards (4 Suits X 3 = 12) are held in a separate deck. The players select their unique combination that must include one Jack, one Queen, and one King. The remaining 9 cards are set aside.
+  - 40 DC Cards: There are 40 cards (4 Suits X 10 = 40) that are included in the primary DC deck. The 12 face cards are not included in the 40 card DC defense deck.
+  - 2 Joker Cards: There are 2 Joker cards included in the primary DC deck.
 
-Strength and weaknesses may vary among face cards (Jack, Queen, and
-King), suits (Clubs, Spades, Diamonds, and Hearts), card colors (black
-and red) and the site card’s face up/down position. Clubs and Spades are
-black and Diamonds and Hearts are red. Other colors can be substituted
-as needs require. The game is designed around the standard
-international, four suit, and two color (red and black) poker deck.
+Strength and weaknesses may vary among face cards (Jack, Queen, and King), suits (Clubs, Spades, Diamonds, and Hearts), card colors (black and red) and the site card’s face up/down position. Clubs and Spades are black and Diamonds and Hearts are red. Other colors can be substituted as needs require. The game is designed around the standard international, four suit, and two color (red and black) poker deck.
 
-The Masked / Unmasked status (face down / face up) of the attacking and
-defending sites will affect the strength and weaknesses of the opposing
-sites (face cards). Face down TA site cards may have more flexible
-attack options and may be more difficult to defense and face down DC
-site cards may limit some TA attacks or trigger additional TA workload
-counts. The following design, of an OWASP branded card set, was drafted
-during the initial proof of concept phase to provide how the cards might
-look.</p>
+The Masked / Unmasked status (face down / face up) of the attacking and defending sites will affect the strength and weaknesses of the opposing sites (face cards). Face down TA site cards may have more flexible attack options and may be more difficult to defense and face down DC site cards may limit some TA attacks or trigger additional TA workload counts. The following design, of an OWASP branded card set, was drafted during the initial proof of concept phase to provide how the cards might look.</p>
 
 <figure>
 <img src="/assets/images/OWASP_Game_Card_Sample_Draft_2.jpg" title="Sample of Card Fronts" alt="Sample of Card Fronts" /><figcaption>Sample of Card Fronts</figcaption>
@@ -191,84 +138,40 @@ look.</p>
 
 ## Setup
 
-The game’s play grid should be laid out at the start of each game and
-each player should have ready:
+The game’s play grid should be laid out at the start of each game and each player should have ready:
 
   - Two draw card stacks (one TA team and one DC team).
   - Two empty discard card stacks (one TA team and one DC team).
-  - Two 5 card hands (one TA team and one DC team). After shuffling,
-    each player selects the top 5 cards from each of their two 40 card
-    decks.
-  - Three DC site face cards should be positioned face down on the
-    playing grid, one in each of the three Business Site positions.
-    These cards should include one Jack, one Queen, and one King of any
-    suit. Individual player strategy will determine the suit mixture.
-  - Three TA site face cards should be positioned face down, one in each
-    of the TA offline bays. These cards should include one Jack, one
-    Queen, and one King of any suit. Individual player strategy will
-    determine the suit mixture.
-  - Each TA face card should be accompanied by a workload counter (dice)
-    or small piece of paper to keep track of the workload counts.
+  - Two 5 card hands (one TA team and one DC team). After shuffling, each player selects the top 5 cards from each of their two 40 card decks.
+  - Three DC site face cards should be positioned face down on the playing grid, one in each of the three Business Site positions.
+    These cards should include one Jack, one Queen, and one King of any suit. Individual player strategy will determine the suit mixture.
+  - Three TA site face cards should be positioned face down, one in each of the TA offline bays. These cards should include one Jack, one Queen, and one King of any suit. Individual player strategy will determine the suit mixture.
+  - Each TA face card should be accompanied by a workload counter (dice) or small piece of paper to keep track of the workload counts.
 
 ## Start of Play
 
-1.  The three DC site face cards (business websites) are considered
-    online. The DC business site cards will be turned face up as they
-    fall victim to a successful TA Observation attack.
-2.  Each player must move at least one of their TA site face cards
-    (attacking site) from the inactive offline rack to the primary
-    online position. The cost is one workload count added to each TA
-    face card moved to an online position. All three TA site face cards
-    may be moved into an online position at the cost of one workload
-    count each.
-3.  A coin toss (rock, paper, scissors, etc.) determines who starts game
-    play with the first attack.
+1.  The three DC site face cards (business websites) are considered online. The DC business site cards will be turned face up as they fall victim to a successful TA Observation attack.
+2.  Each player must move at least one of their TA site face cards (attacking site) from the inactive offline rack to the primary online position. The cost is one workload count added to each TA face card moved to an online position. All three TA site face cards may be moved into an online position at the cost of one workload count each.
+3.  A coin toss (rock, paper, scissors, etc.) determines who starts game play with the first attack.
 
 ## Attack Phase
 
-The focus of the game is on the TA’s attack phase. The game objective is
-to attack and defeat (PWN) your opponent’s three DC business websites.
-At the start of each TA attack round, each player draws sufficient cards
-to ensure they have 5 cards in both the TA attack hand and the DC
-business hand. The TA selects an attack card (A1 through A9). If the DC
-opponent is unable to defense the attack card, the attack is successful.
-See the Card Attack / Defense Matrix and the instructions about TA
-Exploit Activities below.
+The focus of the game is on the TA’s attack phase. The game objective is to attack and defeat (PWN) your opponent’s three DC business websites. At the start of each TA attack round, each player draws sufficient cards to ensure they have 5 cards in both the TA attack hand and the DC business hand. The TA selects an attack card (A1 through A9). If the DC opponent is unable to defense the attack card, the attack is successful. See the Card Attack / Defense Matrix and the instructions about TA Exploit Activities below.
 
-The TA may withdraw the current primary online attack face card and
-replace it with another attack face card from the online rack at no
-cost. Whenever a card is moved from the offline rack to the online rack,
-one workload counter should be added to the card moved online. There is
-no cost to reposition an online card or return an online card to the
-offline position.
+The TA may withdraw the current primary online attack face card and replace it with another attack face card from the online rack at no cost. Whenever a card is moved from the offline rack to the online rack, one workload counter should be added to the card moved online. There is no cost to reposition an online card or return an online card to the offline position.
 
-  - If the move to online results in more than x workload counts, the
-    TA’s online card is no longer effectively masked (considered
-    deprecated) and it is turned face up. Some attacks may be limited.
-  - If the move to online results in more than x workload counts, the
-    TA’s online card is considered decommissioned and must be returned
-    to the offline rack bay.
+  - If the move to online results in more than x workload counts, the TA’s online card is no longer effectively masked (considered deprecated) and it is turned face up. Some attacks may be limited. 
+  - If the move to online results in more than x workload counts, the TA’s online card is considered decommissioned and must be returned to the offline rack bay.
   - Once turned face up, the TA face card remains face up.
 
-The TA’s attacking card (A1 through A9 and attached A10) is maintained
-on the grid position marking the successful exploit. The DC loser has
-the option to name any one of the Top 10 Proactive Controls chosen by
-the opponent. If correct, two DC cards may be drawn. If incorrect, one
-DC card may be drawn. The DC player discards any cards in excess of 5.
+The TA’s attacking card (A1 through A9 and attached A10) is maintained on the grid position marking the successful exploit. The DC loser has the option to name any one of the Top 10 Proactive Controls chosen by the opponent. If correct, two DC cards may be drawn. If incorrect, one DC card may be drawn. The DC player discards any cards in excess of 5.
 
 When the TA’s attack is defeated:
 
-  - Both the attacking TA card (including any attached A10 card) and the
-    defending DC card are moved to their respective discard piles.
+  - Both the attacking TA card (including any attached A10 card) and the defending DC card are moved to their respective discard piles.
   - The TA's attacking site card earns one workload count.
-  - The DC victor is permitted to draw up to three bonus DC cards for
-    the TA’s attack failure. The DC player discards any cards in excess
-    of 5.
-  - The defeated TA has the option to name any one of the Top 10 risks
-    chosen by the opponent. If correct, no workload count is applied. If
-    incorrect two workload counts are applied to the TA face card. The
-    TA player may use the “hint” table. At the executive level of play,
-    the "hint" table is not permitted.
+  - The DC victor is permitted to draw up to three bonus DC cards for the TA’s attack failure. The DC player discards any cards in excess of 5.
+  - The defeated TA has the option to name any one of the Top 10 risks chosen by the opponent. If correct, no workload count is applied. If incorrect two workload counts are applied to the TA face card. The TA player may use the “hint” table. At the executive level of play, the "hint" table is not permitted.
 
 TA card status:
 
@@ -280,32 +183,14 @@ TA card status:
 There are three attack vector pathways. Each pathway includes three
 defense-in-depth controls that must be defeated:
 
-1.  Technology Infrastructure - The suit colors (red and black)
-    represent different technology infrastructures. Infrastructure
-    attack and defense options, strengths and weaknesses may result from
-    color combinations. TAs learn about company weaknesses by using
-    different paths to exploit business, social and technical
-    weaknesses. Each of these paths represents a risk that may, or may
-    not, be serious. Sometimes these paths are trivial to find and
-    exploit, and sometimes they are extremely difficult.
-2.  Web Platform - The card suits (Clubs, Spades, Diamonds, & Hearts)
-    represent different web platforms. Web platform attack and defense
-    options, strengths and weaknesses may result from suit combinations.
-    After gaining an understanding of the technologies that support the
-    DC’s web platform, malware can be crafted to exploit weaknesses and
-    misconfigurations.
-3.  Web Application - The face cards (Jack, Queen and King) represent
-    sites with different business purposes and different web application
-    layer configurations. Application layer component attack and defense
-    options, strengths and weaknesses may result from face card
-    combinations. The web application layer includes the user interface
-    and other critical functions that if exploited could permit the TA
-    to control the site.
+1.  Technology Infrastructure - The suit colors (red and black) represent different technology infrastructures. Infrastructure
+attack and defense options, strengths and weaknesses may result from color combinations. TAs learn about company weaknesses by using different paths to exploit business, social and technical weaknesses. Each of these paths represents a risk that may, or may not, be serious. Sometimes these paths are trivial to find and exploit, and sometimes they are extremely difficult.
+2.  Web Platform - The card suits (Clubs, Spades, Diamonds, & Hearts) represent different web platforms. Web platform attack and defense options, strengths and weaknesses may result from suit combinations. After gaining an understanding of the technologies that support the DC’s web platform, malware can be crafted to exploit weaknesses and misconfigurations.
+3.  Web Application - The face cards (Jack, Queen and King) represent sites with different business purposes and different web application layer configurations. Application layer component attack and defense options, strengths and weaknesses may result from face card combinations. The web application layer includes the user interface and other critical functions that if exploited could permit the TA to control the site.
 
 ## Threat Agent (TA) Exploit Activities
 
-Exploits are designed around five TA team activities (three attacks and
-two phases):
+Exploits are designed around five TA team activities (three attacks and two phases):
 
 1.  Observation Attack
 2.  Weaponization Phase
@@ -313,86 +198,38 @@ two phases):
 4.  Site Application Weakness Evaluation Phase
 5.  PWN Attack
 
-Observation Attack – This includes the concepts of profiling, research,
-and crafting a reconnaissance strategy. If the TA's Observation Attack
-is successful, the TA moves to the Weaponization phase. When an
-Observation exploit is defeated by an effective DC card, the attack
-round is over. See instructions above for when an attack is defeated.
+Observation Attack – This includes the concepts of profiling, research, and crafting a reconnaissance strategy. If the TA's Observation Attack is successful, the TA moves to the Weaponization phase. When an Observation exploit is defeated by an effective DC card, the attack round is over. See instructions above for when an attack is defeated.
 
-Weaponization Phase – Based on the results of the Observation phase, the
-TA will select the best tools and techniques to achieve a presence in
-the system and to eventually gain system exploit. At the beginning of
-the Weaponization phase, the TA has several options:
+Weaponization Phase – Based on the results of the Observation phase, the TA will select the best tools and techniques to achieve a presence in the system and to eventually gain system exploit. At the beginning of the Weaponization phase, the TA has several options:
 
 1.  End the round without additional workload cost.
-2.  Draw up to 3 additional attack cards. After selecting the best cards
-    for the planned exploit, the TA must discard attack cards so the
-    hand has no more than 5 cards. The cost of the additional card draw
-    is to add one workload count to the TA's attacking face card.
+2.  Draw up to 3 additional attack cards. After selecting the best cards for the planned exploit, the TA must discard attack cards so the hand has no more than 5 cards. The cost of the additional card draw is to add one workload count to the TA's attacking face card.
 3.  Move online TA face card(s) offline. No cost.
-4.  Move offline TA face card(s) online. Cost is one workload count per
-    card.
-5.  Reposition the TA’s primary online face card to another online
-    position and substitute it with another online card. No cost.
-6.  Change attack vector path and launch an Observation Attack on
-    another DC site. No cost.
-7.  Launch an Assess Platform Weakness Attack on this site or change the
-    attack vector path and launch an Assess Platform Weakness Attack on
-    any other DC site that is vulnerable due to a previously successful
-    Observation attack. No cost.
-8.  Change attack vector path and launch a PWN Attack on any other DC
-    site that is now vulnerable due to a previously successful Assess
-    Platform Weakness Attack. No cost.
+4.  Move offline TA face card(s) online. Cost is one workload count per card.
+5.  Reposition the TA’s primary online face card to another online position and substitute it with another online card. No cost.
+6.  Change attack vector path and launch an Observation Attack on another DC site. No cost.
+7.  Launch an Assess Platform Weakness Attack on this site or change the attack vector path and launch an Assess Platform Weakness Attack on any other DC site that is vulnerable due to a previously successful Observation attack. No cost.
+8.  Change attack vector path and launch a PWN Attack on any other DC site that is now vulnerable due to a previously successful Assess Platform Weakness Attack. No cost.
 
-Assess Web Platform Technical Weaknesses Attack – The purpose of this
-attack is to evaluate the information gained from the previous phase,
-craft an effective attack, and assess the technical weaknesses of the
-opponents DC site web platform. If the attack is successful, the TA
-moves to the Site Application Weakness Evaluation phase. If the TA's
-technical weakness attack is defeated, the round is over. See
-instructions for when an attack phase is defeated.
+Assess Web Platform Technical Weaknesses Attack – The purpose of this attack is to evaluate the information gained from the previous phase, craft an effective attack, and assess the technical weaknesses of the opponents DC site web platform. If the attack is successful, the TA moves to the Site Application Weakness Evaluation phase. If the TA's technical weakness attack is defeated, the round is over. See instructions for when an attack phase is defeated.
 
-Site Application Weakness Evaluation Phase – The purpose of this phase
-is to evaluate the information gained from the previous phases and craft
-an attack that will effectively implement the TA’s goals. At the
-beginning of the Site Application Weakness Evaluation phase, the TA has
-several options:
+Site Application Weakness Evaluation Phase – The purpose of this phase is to evaluate the information gained from the previous phases and craft an attack that will effectively implement the TA’s goals. At the beginning of the Site Application Weakness Evaluation phase, the TA has several options:
 
 1.  End the round without additional workload cost.
-2.  Draw up to 3 additional attack cards. After selecting the best cards
-    for the planned exploit, the TA must discard attack cards so the
-    hand has no more than 5 cards. The cost of the additional card draw
-    is to add one workload count to the TA's attacking face card.
+2.  Draw up to 3 additional attack cards. After selecting the best cards for the planned exploit, the TA must discard attack cards so the hand has no more than 5 cards. The cost of the additional card draw is to add one workload count to the TA's attacking face card.
 3.  Move online TA face card(s) offline. No cost.
-4.  Move offline TA face card(s) online. Cost is one workload count per
-    card.
-5.  Reposition the TA’s primary online face card to another online
-    position and substitute it with another online card. No cost.
-6.  Change attack vector path and launch an Observation Attack on
-    another DC site. No cost.
-7.  Change attack vector path and launch an Assess Platform Weakness
-    Attack on another DC site that is vulnerable due to a previously
-    successful Observation attack. No cost.
-8.  Launch a PWN Attack on this site or change the attack vector path
-    and launch a PWN attack on any other DC site that is now vulnerable
-    due to a previously successful Assess Platform Weakness Attack. No
-    cost.
+4.  Move offline TA face card(s) online. Cost is one workload count per card.
+5.  Reposition the TA’s primary online face card to another online position and substitute it with another online card. No cost.
+6.  Change attack vector path and launch an Observation Attack on another DC site. No cost.
+7.  Change attack vector path and launch an Assess Platform Weakness Attack on another DC site that is vulnerable due to a previously successful Observation attack. No cost.
+8.  Launch a PWN Attack on this site or change the attack vector path and launch a PWN attack on any other DC site that is now vulnerable due to a previously successful Assess Platform Weakness Attack. No cost.
 
-PWN Attack – The potential results and future actions following the TA’s
-PWN attack depend on the status of the TA's attacking face card:
+PWN Attack – The potential results and future actions following the TA’s PWN attack depend on the status of the TA's attacking face card:
 
-  - If the TA PWN attack is successful, the TA may move to another
-    vector path and launch an attack on another DC site or end the round
-    without additional workload cost.
-  - If the TA is attacking with a face card that is unmasked/deprecated,
-    some attacks may be limited.
-  - If the TA is attacking with a face card that is not
-    unmasked/deprecated and the PWN attack is successful, the TA may
-    also pivot and PWN any of the opponent’s unmasked/deprecated online
-    TA face cards prior to launching an attack in another path vector or
-    ending the round. At the start of the next round, the PWN’d TA face
-    cards (now considered decommissioned) must be returned to the
-    offline rack bay.
+  - If the TA PWN attack is successful, the TA may move to another vector path and launch an attack on another DC site or end the round without additional workload cost.
+  - If the TA is attacking with a face card that is unmasked/deprecated, some attacks may be limited.
+  - If the TA is attacking with a face card that is not unmasked/deprecated and the PWN attack is successful, the TA may
+    also pivot and PWN any of the opponent’s unmasked/deprecated online TA face cards prior to launching an attack in another path vector or ending the round. At the start of the next round, the PWN’d TA face cards (now considered decommissioned) must be returned to the offline rack bay.
 
 If the TA's PWN exploit is defeated, the round is over. See instructions
 for when an attack phase is defeated.
