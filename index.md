@@ -16,7 +16,7 @@ During the initial game design, red was selected as the primary color for the ma
 
 <figure>
  
-<img src="/assets/images/TA_Deck_Sample_Card.jpg" title="Threat Agent (TA) Card Deck"> <figcaption>Threat Agent (TA) Card Deck3</figcaption>
+<img src="/assets/images/TA_Deck_Sample_Card.jpg" title="Threat Agent (TA) Card Deck"> <figcaption>Threat Agent (TA) Card Deck</figcaption>
 
 </figure>
 
