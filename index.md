@@ -44,7 +44,7 @@ Cybersecurity activities and training are frequently designed around the concept
 
 <h2 id="available_presentations">Available Presentations</h2>
 
-<p>[Insert link here]</p>
+<p>[Insert links here]</p>
  
 <h2 id="project_leaders">Project Leaders</h2>
  
@@ -58,7 +58,7 @@ Cybersecurity activities and training are frequently designed around the concept
   
 <h2 id="available_downloads">Available Downloads</h2>
 
-<p>[Insert link here]</p>
+<p>[Insert links here]</p>
 
 <h2 id="current_news_and_events">Current News and Events</h2>
 
