@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Top 10 Card Game
-tags: top ten card game
+tags: matrix
 level: 2
 type: documentation
 
