@@ -30,7 +30,7 @@ During the initial game design, blue was selected as the primary color for the b
 
 Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.
 
-What is the OWASP Top 10 Card Game?
+## What is the OWASP Top 10 Card Game?
 
 The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
 
