@@ -1,11 +1,9 @@
 ---
-
 layout: col-sidebar
 title: OWASP Top 10 Card Game
 tags: Matrix
 level: 2
 type: documentation
-
 ---
 
 The OWASP Top Ten card game is a fun to play poker deck card game that pits the black hats against the white hats to see who can be the first to hack their opponent’s website.
@@ -68,7 +66,7 @@ Cybersecurity activities and training are frequently designed around the concept
 
 <h2 id="project_sponsors">Project Sponsors</h2>
 
-<p>[Insert logos here]</p></td>
+<p>[Insert logos here]</p>
 
 ## Related OWASP Projects
 
