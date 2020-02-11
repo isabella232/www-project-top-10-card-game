@@ -40,6 +40,7 @@ Cybersecurity activities and training are frequently designed around the concept
 
 3. The OWASP Top 10 Card Game is currently in the Incubator category. Ideas are being fleshed out and proven. Development is still underway.
 
+4. The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.
 
 <table>
  
@@ -55,7 +56,7 @@ Cybersecurity activities and training are frequently designed around the concept
  
 <h2 id="what_is_the_owasp_top_10_card_game">What is the OWASP Top 10 Card Game?</h2>
 
-<p>The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.</p>
+<p>2The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.</p>
  
 <h2 id="available_presentations">Available Presentations</h2>
 
@@ -71,11 +72,11 @@ Cybersecurity activities and training are frequently designed around the concept
  
  <h2 id="project_resources">Project Resources</h2>
   
-<p>The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.</p>
+<p>2The OWASP Top 10 Card Game is a documentation project that seeks to further OWASP goals and raise awareness about application security. Spin-offs from this project may take any media form (e.g. CBT, videos, games, etc.) and are not limited to a print deliverable.</p>
 
 <h2 id="what_is_the_current_status_of_the_project">What is the Current Status of the Project?</h2>
 
-<p>The OWASP Top 10 Card Game is currently in the Incubator category. Ideas are being fleshed out and proven. Development is still underway.</p>
+<p>2The OWASP Top 10 Card Game is currently in the Incubator category. Ideas are being fleshed out and proven. Development is still underway.</p>
 
 <h2 id="available_downloads">Available Downloads</h2>
 
