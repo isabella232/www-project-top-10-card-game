@@ -124,10 +124,10 @@ Strength and weaknesses may vary among face cards (Jack, Queen, and King), suits
 
 The Masked / Unmasked status (face down / face up) of the attacking and defending sites will affect the strength and weaknesses of the opposing sites (face cards). Face down TA site cards may have more flexible attack options and may be more difficult to defense and face down DC site cards may limit some TA attacks or trigger additional TA workload counts. The following design, of an OWASP branded card set, was drafted during the initial proof of concept phase to provide how the cards might look.</p>
 
-<figure>
-<img src="/assets/images/OWASP_Game_Card_Sample_Draft_2.jpg" title="Sample of Card Fronts" alt="Sample of Card Fronts" /><figcaption>Sample of Card Fronts</figcaption>
-</figure>
+<img src="assets/images/OWASP_Game_Card_Sample_Draft_2" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
+<strong>Sample of Card Fronts</strong>.
+ 
 ## Setup
 
 The game’s play grid should be laid out at the start of each game and each player should have ready:
