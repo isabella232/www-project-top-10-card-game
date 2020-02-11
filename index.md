@@ -126,6 +126,8 @@ The Masked / Unmasked status (face down / face up) of the attacking and defendin
 
 <img src="assets/images/OWASP_Game_Card_Sample_Draft_2" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
+<img src="assets/images/OWASP_Game_Card_Sample_Draft_2">
+
 <strong>Sample of Card Fronts</strong>.
  
 ## Setup
