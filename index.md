@@ -226,7 +226,7 @@ for when an attack phase is defeated.
 
 ## DC Hint Table
 
-| OWASP Top 10 Proactive Controls | DC Playing Card | DC Hint | OWASP Top 10 Proactive Controls            |
+| Attack / TA Card | Treat Agent (TA) Point of View | Defense / DC Card | DC Defense Control Concepts      |
 | ------------------------------- | --------------- | ------- | ------------------------------------------ |
 | C1                              | Ace             | DSR     | Define Security Requirements               |
 | C2                              | 2               | LSF\&L  | Leverage Security Frameworks and Libraries |
@@ -313,46 +313,25 @@ for when an attack phase is defeated.
 
 This card game is free to use. It is licensed under the Creative Commons Attribution ShareAlike 3.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
 
-Special customized card decks are available through OWASP. These are
-standard poker decks that have been modified to enhance the game’s
-learning experience. These decks and the related play grid contain OWASP
-copyrighted images and related descriptions and all rights are reserved.
-Generally, these decks (and play grid) are updated as the new versions
-of the OWASP Top 10 are released. All profit derived from the sale of
-the customized decks (and other related items) are used to further OWASP
-global efforts. See \[add reference / link here\] for additional
-information and examples.
+Special customized card decks are available through OWASP. These are standard poker decks that have been modified to enhance the game’s
+learning experience. These decks and the related play grid contain OWASP copyrighted images and related descriptions and all rights are reserved. Generally, these decks (and play grid) are updated as the new versions of the OWASP Top 10 are released. All profit derived from the sale of the customized decks (and other related items) are used to further OWASP global efforts. See \[add reference / link here\] for additional information and examples.
 
 ## Roadmap
 
-Phase 1 - Develop and complete proof of concept, mission statement,
-short term goals, long term goals and a basic game prototype.
+Phase 1 - Develop and complete proof of concept, mission statement, short term goals, long term goals and a basic game prototype.
 **Completed April 2019**
 
-Phase 2 - Provide proof of concept and mission statement to OWASP and
-obtain Foundation's permission to move forward. Set up project Wiki page
-and GitHub page and adding the project to the OWASP project inventory
-(Incubator Status). **Completed April 2019**
+Phase 2 - Provide proof of concept and mission statement to OWASP and obtain Foundation's permission to move forward. Set up project GitHub page and adding the project to the OWASP project inventory (Incubator Status). **Completed April 2019**
 
-Phase 3 - Follow OWASP best practices and keep project materials
-up-to-date. Find other people to help lead and contribute to the
-project. Areas of need and the corresponding volunteer are listed in the
-“Getting Involved” section of this Wiki. **Open**
+Phase 3 - Follow OWASP best practices and keep project materials up-to-date. Find other people to help lead and contribute to the
+project. Areas of need and the corresponding volunteer are listed in the “Getting Involved” section. **Open**
 
-Phase 4 - Complete one version of a concrete deliverable (product is of
-value to users and the software security industry) and graduate to Lab
-Stage. **Open**
+Phase 4 - Complete one version of a concrete deliverable (product is of value to users and the software security industry) and graduate to Lab Stage. **Open**
 
-Phase 5 - Gain OWASP community and Technical Project Advisory Group
-support and move the project to the Flagship phase. **Open**
+Phase 5 - Gain OWASP community and Technical Project Advisory Group support and move the project to the Flagship phase. **Open**
 
-Phase 6 - Phase 6 addresses the project’s long team goals. It will
-incorporate the basic OWASP Top 10 Card Game as presented in the
-Flagship phase along with special customized card decks that will be
-available through OWASP. These are standard poker decks that have been
-modified to enhance the game’s learning experience. These decks and the
-related play grid contain OWASP copyrighted images and related
-descriptions and all rights are reserved by OWASP. **Open**
+Phase 6 - Phase 6 addresses the project’s long team goals. It will incorporate the basic OWASP Top 10 Card Game as presented in the
+Flagship phase along with special customized card decks that will be available through OWASP. These are standard poker decks that have been modified to enhance the game’s learning experience. These decks and the related play grid contain OWASP copyrighted images and related descriptions and all rights are reserved by OWASP. **Open**
 
 
 ## Getting Involved
