@@ -239,10 +239,22 @@ for when an attack phase is defeated.
 | A8 / 8           |                                | C5 / 5            |                                  |
 | A9 / 9           |                                | C2 / 2            |                                  |
 | Black Hat / Joker| Phishing attack                | None / None       |User Education                    |
+|                  |                                |                   |                                  |
+|                  |                                |                   |                                  |
 | A10 / 10         |                                |                   |                                  |
+|                  |                                |                   |                                  |
+|                  |                                |                   |                                  |
 |                  |                                | C9 / 9            |Logging and Monitoring            |
+|                  |                                |                   |                                  |
+|                  |                                |                   |                                  |
+|                  |                                |                   |                                  |
+|                  |                                |                   |                                  |
 |                  |                                | C10 / 10          |Error and Exception Handling      |
+|                  |                                |                   |                                  |
+|                  |                                |                   |                                  |
 |                  | DC White Hat                   | White Hat / Joker |                                  |
+|                  |                                |                   |                                  |
+|                  |                                |                   |                                  |
 
 ## Card Attack / Defense Matrix
 
