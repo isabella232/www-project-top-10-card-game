@@ -368,23 +368,23 @@ descriptions and all rights are reserved by OWASP. **Open**
 
 ## Lessons Learned
 
-1.Technical Complexity - The OWASP Top 10 and the OWASP Top Ten Proactive Controls are abstractions of complex real life technical challenges and solutions. Because the card game is a abstraction of the Top 10 risks and controls, it is important to be mindful that the game can easily grow in complexity beyond the intended scope of the novice learner.
+1.  Technical Complexity - The OWASP Top 10 and the OWASP Top Ten Proactive Controls are abstractions of complex real life technical challenges and solutions. Because the card game is a abstraction of the Top 10 risks and controls, it is important to be mindful that the game can easily grow in complexity beyond the intended scope of the novice learner.
 
-2. Operational Complexity - Even through the game is based on the common poker card deck and a simple game grid, there is ample opportunity for the game to grow in complexity beyond the intended scope of the novice learner.
+2.  Operational Complexity - Even through the game is based on the common poker card deck and a simple game grid, there is ample opportunity for the game to grow in complexity beyond the intended scope of the novice learner.
 
-3. Card Formulations - During the prototype design process, it was determined that increasing or decreasing the number of attack cards based on the Top 10's risk calculation process, was not meaningful to the games's purpose and only added complexity.
+3.  Card Formulations - During the prototype design process, it was determined that increasing or decreasing the number of attack cards based on the Top 10's risk calculation process, was not meaningful to the games's purpose and only added complexity.
 
-4. Heavy Lifting Already Completed by Other Teams - The game relies on the professionally developed and presented work completed by the Top 10 risk and controls project teams. Don't stray from the guidelines provided by the Top 10 risk and control projects.
+4.  Heavy Lifting Already Completed by Other Teams - The game relies on the professionally developed and presented work completed by the Top 10 risk and controls project teams. Don't stray from the guidelines provided by the Top 10 risk and control projects.
 
-5. Use of Die - During the prototype design process, it was determined that the workload count added for each attack failure was probably best tracked by each player using a six sided die. So it is recommended that six sided dice be included in OWASP's recommended game configuration.
+5.  Use of Die - During the prototype design process, it was determined that the workload count added for each attack failure was probably best tracked by each player using a six sided die. So it is recommended that six sided dice be included in OWASP's recommended game configuration.
 
-6. Workload Counts - During the prototype design process, the appropriate number of workload counts (e.g., damage counters) that should be accumulated for an attacking threat agent website to be unmasked or decommissioned was not finalized. Need to accumulate results from trial game sessions to determine the best number of workload counts.
+6.  Workload Counts - During the prototype design process, the appropriate number of workload counts (e.g., damage counters) that should be accumulated for an attacking threat agent website to be unmasked or decommissioned was not finalized. Need to accumulate results from trial game sessions to determine the best number of workload counts.
 
-7. Gamer Education - The purpose of the game is to provide an interesting and fun experience and also help the gamer to learn about the OWASP Top 10 risks and controls. Look for simple ways to build learning experiences into the game. For example, the design currently permits a player who has failed in their attack move to name a Top 10 risk selected by their opponent to cancel the normal workload count.
+7.  Gamer Education - The purpose of the game is to provide an interesting and fun experience and also help the gamer to learn about the OWASP Top 10 risks and controls. Look for simple ways to build learning experiences into the game. For example, the design currently permits a player who has failed in their attack move to name a Top 10 risk selected by their opponent to cancel the normal workload count.
 
-8. Game Grid - The initial prototype was designed with a more simple grid; however, this proved to be a bit boring for the gamer. The current game grid design reflects design aspects taken from the OWASP Top 10 publication and a layered attack vector that is segmented into five defense-in-depth activities that are summarized with the mnemonic OWASP. Consider ways to modify the game grid to enhance the learning experience.
+8.  Game Grid - The initial prototype was designed with a more simple grid; however, this proved to be a bit boring for the gamer. The current game grid design reflects design aspects taken from the OWASP Top 10 publication and a layered attack vector that is segmented into five defense-in-depth activities that are summarized with the mnemonic OWASP. Consider ways to modify the game grid to enhance the learning experience.
 
-9. Card Designs - At a minimum, the TA deck's card backs should be a color different than the DC deck. A red TA deck and a Blue DC deck seem to augment a more realistic learning experience. Using cards with the same design pattern, made it easy to mix up the player cards. Consider ways to help the players not mix up their playing cards, such as different card back patterns or maybe plastic card jackets.
+9.  Card Designs - At a minimum, the TA deck's card backs should be a color different than the DC deck. A red TA deck and a Blue DC deck seem to augment a more realistic learning experience. Using cards with the same design pattern, made it easy to mix up the player cards. Consider ways to help the players not mix up their playing cards, such as different card back patterns or maybe plastic card jackets.
 
 
 
