@@ -228,7 +228,7 @@ for when an attack phase is defeated.
 
 | Attack / TA Card | Treat Agent (TA) Point of View | Defense / DC Card | DC Defense Control Concepts      |
 | ---------------- | ------------------------------ | ----------------- | -------------------------------- |
-| A1 / Ace         |                                | C3 / 3            |                                  |
+| A1 / Ace         |Injection – TAs send simple text based data as part of a command or query that exploits the syntax rules of the targeted system’s interpreter. Many DC teams continue to allow the use of unsafe APIs and are lax in reviewing legacy code for injection flaws, keeping data separate from commands and limiting SQL injection mass disclosures.| C3 / 3            |<strong>Secure Database Access</strong> - Untrusted data and input is properly controlled and handled by database and platform authentication and communication controls.|
 | A1 / Ace         |                                | C3 / 3            |                                  |
 | A2 / 2           |                                | C6 / 6            |                                  |
 | A3 / 3           |                                | C8 / 8            |                                  |
