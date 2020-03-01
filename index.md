@@ -224,6 +224,21 @@ PWN Attack – The potential results and future actions following the TA’s PWN
 If the TA's PWN exploit is defeated, the round is over. See instructions
 for when an attack phase is defeated.
 
+## DC Hint Table
+
+| OWASP Top 10 Proactive Controls | DC Playing Card | DC Hint | OWASP Top 10 Proactive Controls            |
+| ------------------------------- | --------------- | ------- | ------------------------------------------ |
+| C1                              | Ace             | DSR     | Define Security Requirements               |
+| C2                              | 2               | LSF\&L  | Leverage Security Frameworks and Libraries |
+| C3                              | 3               | SDA     | Secure Database Access                     |
+| C4                              | 4               | E\&ED   | Encode and Escape Data                     |
+| C5                              | 5               | VAI     | Validate All Inputs                        |
+| C6                              | 6               | IDI     | Implement Digital Identity                 |
+| C7                              | 7               | EAC     | Enforce Access Controls                    |
+| C8                              | 8               | PDE     | Protect Data Everywhere                    |
+| C9                              | 9               | ISL\&M  | Implement Security Logging and Monitoring  |
+| C10                             | 10              | HAE\&E  | Handle All Errors and Exceptions           |
+
 ## Card Attack / Defense Matrix
 
 | Attacks| TA Playing Card| Threat Agent (TA) Point of View      | Proactive DC| DC Playing Card| Defense Control (DC) Concepts|
