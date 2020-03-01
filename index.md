@@ -238,11 +238,11 @@ for when an attack phase is defeated.
 | A7 / 7           |                                | C4 / 4            |                                  |
 | A8 / 8           |                                | C5 / 5            |                                  |
 | A9 / 9           |                                | C2 / 2            |                                  |
-| Black Hat / Joker| TA Black Hat                   |                   |                                  |
+| Black Hat / Joker| Phishing attack                | None / None       |User Education                    |
 | A10 / 10         |                                |                   |                                  |
 |                  |                                | C9 / 9            |Logging and Monitoring            |
-|                  | DC White Hat                   | C10 / 10          |Error and Exception Handling      |
-|                  |                                | White Hat / Joker |DC White Hat                      |
+|                  |                                | C10 / 10          |Error and Exception Handling      |
+|                  | DC White Hat                   | White Hat / Joker |                                  |
 
 ## Card Attack / Defense Matrix
 
