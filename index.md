@@ -96,11 +96,9 @@ version of the play grid can be summarized as follows:
 
 <img src="assets/images/OWASP_Card_Game_Grid_Summary.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
-<strong> View from 3,000 Meters</strong>
+The following detailed version of the play grid contains instructional content and provides visual continuity for players:
 
-The detailed version of the play grid contains instructional content and provides visual continuity for players:</p>
-
- <img src="assets/images/Game_Grid_Draft.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
+<img src="assets/images/Game_Grid_Draft.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong>OWASP Card Game Grid</strong> 
 
