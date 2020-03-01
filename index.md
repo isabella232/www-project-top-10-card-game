@@ -12,20 +12,20 @@ Using a standard poker card deck, design a card game that combines the concepts 
 
 The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
 
-During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. Many options are open for the design of an OWASP branded TA card deck. For example,
+Many options are open for the design of an OWASP branded TA and DC card decks. Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams. For example,
 
 <img src="assets/images/TA_Deck_Sample_Card.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong>Threat Agent (TA) Card Deck</strong>
 
-During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck. Many options are open for the design of an OWASP branded DC card deck. For example,
+During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. 
 
 <img src="assets/images/DC_Deck_Sample_Card.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
  
 <strong>Defense Control (DC) Card Deck</strong>
- 
-Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams.
 
+During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck.
+ 
 ## What is the OWASP Top 10 Card Game?
 
 1. The game is designed to be an easy to learn introduction to the risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense realism and excitement.
@@ -92,9 +92,9 @@ The standard two player configuration includes one TA deck and one DC deck for e
 
 The game’s detailed play grid is based in part on the attack path flow diagram provided with OWASP’s Top 10 publication. The
 play grid is designed to help students visualize how threat agents can potentially use many different paths through your application to do harm to your business or organization. With a view from 3,000 meters high, the standard two player (four deck)
-version of the play grid can be summarized as follows:</p>
+version of the play grid can be summarized as follows:
 
- <img src="assets/images/OWASP_Card_Game_Grid_Summary.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
+<img src="assets/images/OWASP_Card_Game_Grid_Summary.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong> View from 3,000 Meters</strong>
 
@@ -122,7 +122,7 @@ Defense Control (DC) deck – 54 cards
 
 Strength and weaknesses may vary among face cards (Jack, Queen, and King), suits (Clubs, Spades, Diamonds, and Hearts), card colors (black and red) and the site card’s face up/down position. Clubs and Spades are black and Diamonds and Hearts are red. Other colors can be substituted as needs require. The game is designed around the standard international, four suit, and two color (red and black) poker deck.
 
-The Masked / Unmasked status (face down / face up) of the attacking and defending sites will affect the strength and weaknesses of the opposing sites (face cards). Face down TA site cards may have more flexible attack options and may be more difficult to defense and face down DC site cards may limit some TA attacks or trigger additional TA workload counts. The following design, of an OWASP branded card set, was drafted during the initial proof of concept phase to provide how the cards might look.</p>
+The Masked / Unmasked status (face down / face up) of the attacking and defending sites will affect the strength and weaknesses of the opposing sites (face cards). Face down TA site cards may have more flexible attack options and may be more difficult to defense and face down DC site cards may limit some TA attacks or trigger additional TA workload counts. The following design, of an OWASP branded card set, was drafted during the initial proof of concept phase to provide how the cards might look.
 
 <img src="assets/images/OWASP_Game_Card_Sample_Draft_2.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
