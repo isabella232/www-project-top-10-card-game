@@ -227,8 +227,8 @@ for when an attack phase is defeated.
 ## Card Attack / Defense Matrix
 
 | Attack / TA Card | Treat Agent (TA) Point of View | Defense / DC Card | DC Defense Control Concepts      |
-| ------------------------------- | --------------- | ------- | ------------------------------------------ |
-| C1                              | Ace             | DSR     | Define Security Requirements               |
+| ---------------- | ------------------------------ | ----------------- | -------------------------------- |
+| A1 / Ace         |                                | C3 / 3            |                                  |
 | C2                              | 2               | LSF\&L  | Leverage Security Frameworks and Libraries |
 | C3                              | 3               | SDA     | Secure Database Access                     |
 | C4                              | 4               | E\&ED   | Encode and Escape Data                     |
