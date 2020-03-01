@@ -14,13 +14,13 @@ The game is designed to be an easy to learn introduction to the risk concepts of
 
 During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. Many options are open for the design of an OWASP branded TA card deck. For example,
 
-<img src="assets/images/TA_Deck_Sample_Card.jpg" style="float: left; width: 50%; margin-right: 15px; margin-bottom: 15px;">
+<img src="assets/images/TA_Deck_Sample_Card.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong>Threat Agent (TA) Card Deck</strong>
 
 During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck. Many options are open for the design of an OWASP branded DC card deck. For example,
 
-<img src="assets/images/DC_Deck_Sample_Card.jpg" style="float: left; width: 50%; margin-right: 15px; margin-bottom: 15px;">
+<img src="assets/images/DC_Deck_Sample_Card.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
  
 <strong>Defense Control (DC) Card Deck</strong>
  
@@ -94,13 +94,13 @@ The game’s detailed play grid is based in part on the attack path flow diagram
 play grid is designed to help students visualize how threat agents can potentially use many different paths through your application to do harm to your business or organization. With a view from 3,000 meters high, the standard two player (four deck)
 version of the play grid can be summarized as follows:</p>
 
- <img src="assets/images/OWASP_Card_Game_Grid_Summary.jpg" style="float: left; width: 50%; margin-right: 15px; margin-bottom: 15px;">
+ <img src="assets/images/OWASP_Card_Game_Grid_Summary.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong> View from 3,000 Meters</strong>
 
 The detailed version of the play grid contains instructional content and provides visual continuity for players:</p>
 
- <img src="assets/images/Game_Grid_Draft.jpg" style="float: left; width: 50%; margin-right: 15px; margin-bottom: 15px;">
+ <img src="assets/images/Game_Grid_Draft.jpg" style="float: left; width: 100%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong>OWASP Card Game Grid</strong> 
 
