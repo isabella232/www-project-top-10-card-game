@@ -229,15 +229,20 @@ for when an attack phase is defeated.
 | Attack / TA Card | Treat Agent (TA) Point of View | Defense / DC Card | DC Defense Control Concepts      |
 | ---------------- | ------------------------------ | ----------------- | -------------------------------- |
 | A1 / Ace         |                                | C3 / 3            |                                  |
-| C2                              | 2               | LSF\&L  | Leverage Security Frameworks and Libraries |
-| C3                              | 3               | SDA     | Secure Database Access                     |
-| C4                              | 4               | E\&ED   | Encode and Escape Data                     |
-| C5                              | 5               | VAI     | Validate All Inputs                        |
-| C6                              | 6               | IDI     | Implement Digital Identity                 |
-| C7                              | 7               | EAC     | Enforce Access Controls                    |
-| C8                              | 8               | PDE     | Protect Data Everywhere                    |
-| C9                              | 9               | ISL\&M  | Implement Security Logging and Monitoring  |
-| C10                             | 10              | HAE\&E  | Handle All Errors and Exceptions           |
+| A1 / Ace         |                                | C3 / 3            |                                  |
+| A2 / 2           |                                | C6 / 6            |                                  |
+| A3 / 3           |                                | C8 / 8            |                                  |
+| A4 / 4           |                                | C4 / 4            |                                  |
+| A5 / 5           |                                | C7 / 7            |                                  |
+| A6 / 6           |                                | C1 / Ace          |                                  |
+| A7 / 7           |                                | C4 / 4            |                                  |
+| A8 / 8           |                                | C5 / 5            |                                  |
+| A9 / 9           |                                | C2 / 2            |                                  |
+| Black Hat        | Joker                          |                   |                                  |
+| A10 / 10         |                                |                   |                                  |
+|                  |                                | C9 / 9            |Logging and Monitoring            |
+|                  |DC White Hat                    | C10 / 10          |Error and Exception Handling      |
+|                  |                                | Joker             |DC White Hat Joker                |
 
 ## Card Attack / Defense Matrix
 
