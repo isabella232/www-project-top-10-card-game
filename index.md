@@ -228,9 +228,8 @@ for when an attack phase is defeated.
 
 ## Card Attack / Defense Matrix
 
-
-| Attacks| TA Playing Card| Threat Agent (TA) Point of View| Proactive DC| DC Playing Card| Defense Control (DC) Concepts|
-|------------|------------|------------------------|------------|------------|------------------------|
+| Attacks| TA Playing Card| Threat Agent (TA) Point of View      | Proactive DC| DC Playing Card| Defense Control (DC) Concepts|
+|--------|----------------|--------------------------------------|-------------|----------------|------------------------------|
 |A1|Ace|Injection – TAs send simple text based data as part of a command or query that exploits the syntax rules of the targeted system’s interpreter. Many DC teams continue to allow the use of unsafe APIs and are lax in reviewing legacy code for injection flaws, keeping data separate from commands and limiting SQL injection mass disclosures.|C3|3|Secure Database Access - Untrusted data and input is properly controlled and handled by database and platform authentication and communication controls.|
 |A1|Ace|Injection – TAs send simple text based data as part of a command or query that exploits the syntax rules of the targeted system’s interpreter. Many DC teams continue to allow the use unsafe APIs and are lax in reviewing legacy code for injection flaws, keeping data separate from commands and limiting SQL injection mass disclosures.|C4|4|Encode and Escape Data - Applications are designed to encode and escape data to ensure that TA crafted scripts are prevented from hijacking the intended process.|
 A2|2|Broken Authentication – System flaws allow TAs to compromise passwords, keys, or session tokens, or to assume other users’ identities. Privileged accounts are frequently targeted. The prevalence of broken authentication is widespread across the DC landscape due to poor design and weak implementation of identity and access controls. Effective reconnaissance will help identify systems that may be using admin default credentials.|C6|6|Implement Digital Identity - Properly configured user authentication and session management controls are in place to ensure that only legitimate users and processes are permitted.|
