@@ -106,13 +106,13 @@ The following detailed version of the play grid contains instructional content a
 
 During game design, four standard poker size playing card decks were used. Each player has one Threat Agent (TA) deck that represents the player’s attack team and one Defense Control (DC) deck that represents the player’s website defense team. Red TA decks and blue DC decks were used during game design.
 
-Threat Agent (TA) attack deck – 54 cards
+<strong>Threat Agent (TA) attack deck – 54 cards</strong>
 
   - 12 Face Cards: The face cards (4 Suits X 3 = 12) are held in a separate deck. The players select their unique combination that must include one Jack, one Queen, and one King. The remaining 9 cards are set aside.
   - 40 TA Attack Cards: There are 40 cards (4 Suits X 10 = 40) that are included in the primary TA attack deck. The 12 face cards are not included in the 40 card TA attack deck.
   - 2 Joker Cards: There are 2 Joker cards included in the primary TA attack deck.
 
-Defense Control (DC) deck – 54 cards
+<strong>Defense Control (DC) deck – 54 cards</strong>
 
   - 12 Face Cards: The face cards (4 Suits X 3 = 12) are held in a separate deck. The players select their unique combination that must include one Jack, one Queen, and one King. The remaining 9 cards are set aside.
   - 40 DC Cards: There are 40 cards (4 Suits X 10 = 40) that are included in the primary DC deck. The 12 face cards are not included in the 40 card DC defense deck.
@@ -141,7 +141,9 @@ The game’s play grid should be laid out at the start of each game and each pla
 ## Start of Play
 
 1.  The three DC site face cards (business websites) are considered online. The DC business site cards will be turned face up as they fall victim to a successful TA Observation attack.
+
 2.  Each player must move at least one of their TA site face cards (attacking site) from the inactive offline rack to the primary online position. The cost is one workload count added to each TA face card moved to an online position. All three TA site face cards may be moved into an online position at the cost of one workload count each.
+
 3.  A coin toss (rock, paper, scissors, etc.) determines who starts game play with the first attack.
 
 ## Attack Phase
@@ -170,13 +172,15 @@ TA card status:
   - Active – Online and unmasked/deprecated (face up).
   - Decommissioned – Offline rack bay (face up).
 
-There are three attack vector pathways. Each pathway includes three
-defense-in-depth controls that must be defeated:
+There are three attack vector pathways. Each pathway includes three defense-in-depth controls that must be defeated:
 
-1.  Technology Infrastructure - The suit colors (red and black) represent different technology infrastructures. Infrastructure
+1.  <strong>Technology Infrastructure</strong> - The suit colors (red and black) represent different technology infrastructures. Infrastructure. 
+
 attack and defense options, strengths and weaknesses may result from color combinations. TAs learn about company weaknesses by using different paths to exploit business, social and technical weaknesses. Each of these paths represents a risk that may, or may not, be serious. Sometimes these paths are trivial to find and exploit, and sometimes they are extremely difficult.
-2.  Web Platform - The card suits (Clubs, Spades, Diamonds, & Hearts) represent different web platforms. Web platform attack and defense options, strengths and weaknesses may result from suit combinations. After gaining an understanding of the technologies that support the DC’s web platform, malware can be crafted to exploit weaknesses and misconfigurations.
-3.  Web Application - The face cards (Jack, Queen and King) represent sites with different business purposes and different web application layer configurations. Application layer component attack and defense options, strengths and weaknesses may result from face card combinations. The web application layer includes the user interface and other critical functions that if exploited could permit the TA to control the site.
+
+2.  <strong>Web Platform</strong> - The card suits (Clubs, Spades, Diamonds, & Hearts) represent different web platforms. Web platform attack and defense options, strengths and weaknesses may result from suit combinations. After gaining an understanding of the technologies that support the DC’s web platform, malware can be crafted to exploit weaknesses and misconfigurations.
+
+3.  <strong>Web Application</strong> - The face cards (Jack, Queen and King) represent sites with different business purposes and different web application layer configurations. Application layer component attack and defense options, strengths and weaknesses may result from face card combinations. The web application layer includes the user interface and other critical functions that if exploited could permit the TA to control the site.
 
 ## Threat Agent (TA) Exploit Activities
 
@@ -188,9 +192,9 @@ Exploits are designed around five TA team activities (three attacks and two phas
 4.  Site Application Weakness Evaluation Phase
 5.  PWN Attack
 
-Observation Attack – This includes the concepts of profiling, research, and crafting a reconnaissance strategy. If the TA's Observation Attack is successful, the TA moves to the Weaponization phase. When an Observation exploit is defeated by an effective DC card, the attack round is over. See instructions above for when an attack is defeated.
+<strong>Observation Attack</strong> – This includes the concepts of profiling, research, and crafting a reconnaissance strategy. If the TA's Observation Attack is successful, the TA moves to the Weaponization phase. When an Observation exploit is defeated by an effective DC card, the attack round is over. See instructions above for when an attack is defeated.
 
-Weaponization Phase – Based on the results of the Observation phase, the TA will select the best tools and techniques to achieve a presence in the system and to eventually gain system exploit. At the beginning of the Weaponization phase, the TA has several options:
+<strong>Weaponization Phase</strong> – Based on the results of the Observation phase, the TA will select the best tools and techniques to achieve a presence in the system and to eventually gain system exploit. At the beginning of the Weaponization phase, the TA has several options:
 
 1.  End the round without additional workload cost.
 2.  Draw up to 3 additional attack cards. After selecting the best cards for the planned exploit, the TA must discard attack cards so the hand has no more than 5 cards. The cost of the additional card draw is to add one workload count to the TA's attacking face card.
@@ -201,9 +205,9 @@ Weaponization Phase – Based on the results of the Observation phase, the TA wi
 7.  Launch an Assess Platform Weakness Attack on this site or change the attack vector path and launch an Assess Platform Weakness Attack on any other DC site that is vulnerable due to a previously successful Observation attack. No cost.
 8.  Change attack vector path and launch a PWN Attack on any other DC site that is now vulnerable due to a previously successful Assess Platform Weakness Attack. No cost.
 
-Assess Web Platform Technical Weaknesses Attack – The purpose of this attack is to evaluate the information gained from the previous phase, craft an effective attack, and assess the technical weaknesses of the opponents DC site web platform. If the attack is successful, the TA moves to the Site Application Weakness Evaluation phase. If the TA's technical weakness attack is defeated, the round is over. See instructions for when an attack phase is defeated.
+<strong>Assess Web Platform Technical Weaknesses Attack</strong> – The purpose of this attack is to evaluate the information gained from the previous phase, craft an effective attack, and assess the technical weaknesses of the opponents DC site web platform. If the attack is successful, the TA moves to the Site Application Weakness Evaluation phase. If the TA's technical weakness attack is defeated, the round is over. See instructions for when an attack phase is defeated.
 
-Site Application Weakness Evaluation Phase – The purpose of this phase is to evaluate the information gained from the previous phases and craft an attack that will effectively implement the TA’s goals. At the beginning of the Site Application Weakness Evaluation phase, the TA has several options:
+<strong>Site Application Weakness Evaluation Phase</strong> – The purpose of this phase is to evaluate the information gained from the previous phases and craft an attack that will effectively implement the TA’s goals. At the beginning of the Site Application Weakness Evaluation phase, the TA has several options:
 
 1.  End the round without additional workload cost.
 2.  Draw up to 3 additional attack cards. After selecting the best cards for the planned exploit, the TA must discard attack cards so the hand has no more than 5 cards. The cost of the additional card draw is to add one workload count to the TA's attacking face card.
@@ -214,7 +218,7 @@ Site Application Weakness Evaluation Phase – The purpose of this phase is to e
 7.  Change attack vector path and launch an Assess Platform Weakness Attack on another DC site that is vulnerable due to a previously successful Observation attack. No cost.
 8.  Launch a PWN Attack on this site or change the attack vector path and launch a PWN attack on any other DC site that is now vulnerable due to a previously successful Assess Platform Weakness Attack. No cost.
 
-PWN Attack – The potential results and future actions following the TA’s PWN attack depend on the status of the TA's attacking face card:
+<strong>PWN Attack</strong> – The potential results and future actions following the TA’s PWN attack depend on the status of the TA's attacking face card:
 
   - If the TA PWN attack is successful, the TA may move to another vector path and launch an attack on another DC site or end the round without additional workload cost.
   - If the TA is attacking with a face card that is unmasked/deprecated, some attacks may be limited.
@@ -228,7 +232,7 @@ for when an attack phase is defeated.
 
 | Attack / TA Card | Treat Agent (TA) Point of View | Defense / DC Card | DC Defense Control Concepts      |
 | ---------------- | ------------------------------ | ----------------- | -------------------------------- |
-| A1 / Ace         |Injection – TAs send simple text based data as part of a command or query that exploits the syntax rules of the targeted system’s interpreter. Many DC teams continue to allow the use of unsafe APIs and are lax in reviewing legacy code for injection flaws, keeping data separate from commands and limiting SQL injection mass disclosures.| C3 / 3            |<strong>Secure Database Access</strong> - Untrusted data and input is properly controlled and handled by database and platform authentication and communication controls.|
+| A1 / Ace         |<strong>Injection</strong> – TAs send simple text based data as part of a command or query that exploits the syntax rules of the targeted system’s interpreter. Many DC teams continue to allow the use of unsafe APIs and are lax in reviewing legacy code for injection flaws, keeping data separate from commands and limiting SQL injection mass disclosures.| C3 / 3            |<strong>Secure Database Access</strong> - Untrusted data and input is properly controlled and handled by database and platform authentication and communication controls.|
 | A1 / Ace         |<strong>Injection</strong> – TAs send simple text based data as part of a command or query that exploits the syntax rules of the targeted system’s interpreter. Many DC teams continue to allow the use unsafe APIs and are lax in reviewing legacy code for injection flaws, keeping data separate from commands and limiting SQL injection mass disclosures.| C3 / 3            |<strong>Encode and Escape Data</strong> - Applications are designed to encode and escape data to ensure that TA crafted scripts are prevented from hijacking the intended process.|
 | A2 / 2           |<strong>Broken Authentication</strong> – System flaws allow TAs to compromise passwords, keys, or session tokens, or to assume other users’ identities. Privileged accounts are frequently targeted. The prevalence of broken authentication is widespread across the DC landscape due to poor design and weak implementation of identity and access controls. Effective reconnaissance will help identify systems that may be using admin default credentials.| C6 / 6            |<strong>Implement Digital Identity</strong> - Properly configured user authentication and session management controls are in place to ensure that only legitimate users and processes are permitted.|
 | A3 / 3           |<strong>Sensitive Data Exposure</strong> – TAs steal clear text data off the server, while in transit, or from the users browser. Over the last few years, this attack has seen successful TA exploits. DC teams are not ensuring that business sensitive data is encrypted. Sensitive data maybe stored or cached long after it is needed for any business purpose. When crypto is employed, weak key generation and management, and weak algorithm, protocol and cipher usage is common, particularly for weak password hashing storage techniques. For data in transit, server side weaknesses are mainly easy to detect, but hard for data at rest.| C8 / 8            |<strong>Protect Data Everywhere</strong> - A process is in place to ensure that sensitive user; platform and application data is properly classified, encrypted and controlled.|
