@@ -224,7 +224,7 @@ PWN Attack – The potential results and future actions following the TA’s PWN
 If the TA's PWN exploit is defeated, the round is over. See instructions
 for when an attack phase is defeated.
 
-## DC Hint Table
+## Card Attack / Defense Matrix
 
 | Attack / TA Card | Treat Agent (TA) Point of View | Defense / DC Card | DC Defense Control Concepts      |
 | ------------------------------- | --------------- | ------- | ------------------------------------------ |
