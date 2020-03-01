@@ -174,9 +174,7 @@ TA card status:
 
 There are three attack vector pathways. Each pathway includes three defense-in-depth controls that must be defeated:
 
-1.  <strong>Technology Infrastructure</strong> - The suit colors (red and black) represent different technology infrastructures. Infrastructure. 
-
-attack and defense options, strengths and weaknesses may result from color combinations. TAs learn about company weaknesses by using different paths to exploit business, social and technical weaknesses. Each of these paths represents a risk that may, or may not, be serious. Sometimes these paths are trivial to find and exploit, and sometimes they are extremely difficult.
+1.  <strong>Technology Infrastructure</strong> - The suit colors (red and black) represent different technology infrastructures. Infrastructure. Attack and defense options, strengths and weaknesses may result from color combinations. TAs learn about company weaknesses by using different paths to exploit business, social and technical weaknesses. Each of these paths represents a risk that may, or may not, be serious. Sometimes these paths are trivial to find and exploit, and sometimes they are extremely difficult.
 
 2.  <strong>Web Platform</strong> - The card suits (Clubs, Spades, Diamonds, & Hearts) represent different web platforms. Web platform attack and defense options, strengths and weaknesses may result from suit combinations. After gaining an understanding of the technologies that support the DC’s web platform, malware can be crafted to exploit weaknesses and misconfigurations.
 
