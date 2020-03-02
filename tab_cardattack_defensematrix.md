@@ -1,10 +1,10 @@
 ---
 
-title: tab_cardattack_defensematrix
+title: cardattack_defensematrix
 displaytext: Card Attack / Defense Matrix
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: top 10 card game
 
 ---
