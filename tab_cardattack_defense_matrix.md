@@ -4,7 +4,7 @@ title: Matrix
 displaytext: Card Attack / Defense Matrix
 layout:  null
 tab: true
-order: 2
+order: 1
 tags: top 10 card game
 
 ---
