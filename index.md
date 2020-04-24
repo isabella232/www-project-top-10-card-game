@@ -383,7 +383,7 @@ Flagship phase along with special customized card decks that will be available t
 
 8.  Game Grid - The initial prototype was designed with a more simple grid; however, this proved to be a bit boring for the gamer. The current game grid design reflects design aspects taken from the OWASP Top 10 publication and a layered attack vector that is segmented into five defense-in-depth activities that are summarized with the mnemonic OWASP. Consider ways to modify the game grid to enhance the learning experience.
 
-9.  Card Designs - At a minimum, the TA deck's card backs should be a color different than the DC deck. A red TA deck and a Blue DC deck seem to augment a more realistic learning experience. Using cards with the same design pattern, made it easy to mix up the player cards. Consider ways to help the players not mix up their playing cards, such as different card back patterns or maybe plastic card jackets.
+9.  Card Designs - At a minimum, the TA deck's card backs should be a color different than the DC deck. A red TA deck and a Blue DC deck seem to augment a more realistic learning experience. Using cards with the same design pattern, made it easy to mix up the player cards. Consider ways to help the players not mix up their playing cards, such as different card back patterns or maybe plastic card jackets .
 
 
 
