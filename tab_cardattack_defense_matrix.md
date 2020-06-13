@@ -1,4 +1,4 @@
----
+----
 
 title: cardattack_defense_matrix
 displaytext: Card Attack / Defense Matrix
@@ -7,7 +7,7 @@ tab: true
 order: 1
 tags: Top10Cards
 
----
+----
 
 ## Card Attack / Defense Matrix
 
