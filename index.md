@@ -14,13 +14,13 @@ The game is designed to be an easy to learn introduction to the risk concepts of
 
 Many options are open for the design of an OWASP branded TA and DC card decks. Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams. For example,
 
-<img src="assets/images/TA_Deck_Sample_Card.jpg" style="float: left; width: 50%; margin-right: 15px; margin-bottom: 15px;">
+<img src="assets/images/TA_Deck_Sample_Card.jpg" style="float: left; width: 750%; margin-right: 15px; margin-bottom: 15px;">
 
 <strong>Threat Agent (TA) Card Deck</strong>
 
 During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. 
 
-<img src="assets/images/DC_Deck_Sample_Card.jpg" style="float: left; width: 50%; margin-right: 15px; margin-bottom: 15px;">
+<img src="assets/images/DC_Deck_Sample_Card.jpg" style="float: left; width: 75%; margin-right: 15px; margin-bottom: 15px;">
  
 <strong>Defense Control (DC) Card Deck</strong>
 
