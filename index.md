@@ -24,13 +24,7 @@ During the initial game design, red was selected as the primary color for the ma
  
 <strong>Defense Control (DC) Card Deck</strong>
 
-During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck.
-##
-##
-##
-##
-##
-##
+During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck.                                                                                                     
  
 ## What is the OWASP Top 10 Card Game?
 
